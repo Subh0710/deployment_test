@@ -6,7 +6,6 @@ mkl-service==2.4.0
 Pillow==9.2.0
 protobuf==3.20.1
 pyarrow==8.0.0
-pywin32
 PyYAML==6.0
 webencodings==0.5.1
 wincertstore==0.2
